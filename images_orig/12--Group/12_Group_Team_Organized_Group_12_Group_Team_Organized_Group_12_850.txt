@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_850
+3
+673 265 28 48 0.9695151
+306 218 91 160 0.99878293
+488 146 87 189 0.9999268
+

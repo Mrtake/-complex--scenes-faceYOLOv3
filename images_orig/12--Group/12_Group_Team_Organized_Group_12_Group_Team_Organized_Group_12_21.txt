@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_21
+3
+561 297 22 32 0.7793935
+354 293 28 37 0.90528333
+263 322 36 38 0.97833633
+

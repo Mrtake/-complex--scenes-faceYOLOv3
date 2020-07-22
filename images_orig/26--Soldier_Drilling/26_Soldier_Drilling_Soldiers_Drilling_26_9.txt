@@ -1,0 +1,5 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_9
+2
+505 223 31 36 0.6805956
+619 213 24 30 0.9067744
+

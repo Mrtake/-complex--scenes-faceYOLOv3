@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_868
+3
+741 249 265 316 0.019851718
+770 301 254 300 0.09007298
+451 88 75 110 0.9877101
+

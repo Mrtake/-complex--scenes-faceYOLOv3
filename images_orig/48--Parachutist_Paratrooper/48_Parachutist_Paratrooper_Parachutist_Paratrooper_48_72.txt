@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_72
+3
+707 283 13 18 0.669179
+259 277 21 30 0.6849772
+169 288 30 39 0.8011687
+

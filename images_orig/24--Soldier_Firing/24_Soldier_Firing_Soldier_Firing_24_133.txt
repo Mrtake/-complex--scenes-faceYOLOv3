@@ -1,0 +1,4 @@
+24_Soldier_Firing_Soldier_Firing_24_133
+1
+482 297 43 61 0.68300956
+

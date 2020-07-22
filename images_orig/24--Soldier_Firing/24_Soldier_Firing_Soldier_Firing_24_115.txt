@@ -1,0 +1,4 @@
+24_Soldier_Firing_Soldier_Firing_24_115
+1
+268 104 83 116 0.8539764
+

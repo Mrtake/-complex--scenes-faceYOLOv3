@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_609
+1
+158 141 25 42 0.8233768
+

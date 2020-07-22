@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_314
+2
+146 350 176 228 0.99730945
+576 282 108 202 0.99812967
+

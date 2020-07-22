@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_568
+2
+430 473 268 331 0.044893567
+408 331 305 435 0.9754208
+

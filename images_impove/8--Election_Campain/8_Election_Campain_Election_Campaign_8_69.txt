@@ -1,0 +1,5 @@
+8_Election_Campain_Election_Campaign_8_69
+2
+95 128 177 172 0.1090243
+129 140 116 195 0.9971426
+

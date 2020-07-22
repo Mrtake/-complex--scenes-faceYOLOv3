@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_572
+2
+189 188 38 50 0.7143358
+235 25 22 31 0.8697229
+

@@ -1,0 +1,5 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_336
+2
+87 231 33 41 0.9732059
+638 210 34 51 0.9893338
+

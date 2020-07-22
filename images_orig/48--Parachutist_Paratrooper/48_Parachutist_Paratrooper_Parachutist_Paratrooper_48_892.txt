@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_892
+3
+485 108 84 194 0.99728334
+192 232 96 186 0.99803644
+677 160 90 206 0.9994221
+

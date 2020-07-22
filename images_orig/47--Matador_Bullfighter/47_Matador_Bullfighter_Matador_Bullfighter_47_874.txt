@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_874
+2
+308 188 78 255 0.9554441
+664 206 93 239 0.9898436
+

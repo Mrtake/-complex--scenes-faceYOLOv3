@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+173 88 91 171 0.9900658
+632 124 85 195 0.99693346
+416 46 90 188 0.99985445
+

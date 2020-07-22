@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_439
+2
+152 52 45 60 0.7779368
+645 156 101 176 0.9995472
+

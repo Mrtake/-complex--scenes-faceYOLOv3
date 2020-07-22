@@ -1,0 +1,4 @@
+15_Stock_Market_Stock_Market_15_676
+1
+0 105 358 612 0.766159
+

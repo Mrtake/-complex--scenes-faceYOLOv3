@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_101
+3
+157 430 46 66 0.03052972
+246 348 81 149 0.07570252
+258 365 58 112 0.1129609
+

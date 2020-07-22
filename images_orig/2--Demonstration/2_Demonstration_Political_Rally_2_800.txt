@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_800
+1
+369 215 107 200 0.9881963
+

@@ -1,0 +1,5 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+289 95 98 216 0.996194
+638 225 86 164 0.998602
+

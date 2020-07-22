@@ -1,0 +1,5 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_619
+2
+815 243 21 31 0.65436435
+458 211 29 37 0.9234597
+

@@ -1,0 +1,5 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_520
+2
+188 191 95 163 0.9877082
+839 87 88 193 0.99989676
+

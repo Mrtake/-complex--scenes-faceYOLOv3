@@ -1,0 +1,5 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_236
+2
+478 194 33 82 0.7340813
+982 229 35 71 0.85694796
+
